@@ -1,0 +1,50 @@
+[
+    {
+        "id": 24,
+        "name": "Go Falafel",
+        "description": "Go Falafel incorporates a concept of quality and freshness into its menu; Fresh falafel, juice and salads to meet the demand of healthy fast food.",
+        "address": "68 Queen Victoria St, London EC4N 4SJ, UK"
+    },
+    {
+        "id": 28,
+        "name": "Jam Delish",
+        "description": "Vegan Caribbean cuisine serving a vegan twist to traditional Caribbean dishes",
+        "address": "725 Garratt Ln, London SW17 0PD"
+    },
+    {
+        "id": 33,
+        "name": "The Gnarbecue",
+        "description": "100% Vegan fast food with unique homemade Seitan steaks and patties. Big burgers, sarnies, corndogs and loaded fries.",
+        "address": "Unit 68, BOXPARK, 99 George St, London CR0 1LD"
+    },
+    {
+        "id": 35,
+        "name": "Cafe Van Gogh",
+        "description": "Warm, brick-clad & not-for-profit cafe serving hearty vegan cuisine in a relaxed environment",
+        "address": "88 Brixton Rd, Vassal, London SW9 6BE"
+    },
+    {
+        "id": 47,
+        "name": "Flower Burger",
+        "description": "The original rainbow vegan burger.",
+        "address": "43 Charlotte St, Fitzrovia, London W1T 1RS, UK"
+    },
+    {
+        "id": 50,
+        "name": "OSU Coconuts",
+        "description": "\"The best pancakes in the world.\" Vegan coconut pancakes and Caribbean roti wraps.",
+        "address": "1 Sclater St, Poplar, London E1 6HT, UK"
+    },
+    {
+        "id": 68,
+        "name": "Marees Sauces And Food",
+        "description": "Diverse menu providing organic vegan food with Afro-Caribbean flavors.",
+        "address": "91 Whitechapel High St, Shadwell, London E1 7RA, UK"
+    },
+    {
+        "id": 86,
+        "name": "Holy Carrot",
+        "description": "Globally inspired plant based dishes that taste good and feel good.",
+        "address": "2-4 Hans Cres, Knightsbridge, London SW1X 0LH, UK"
+    }
+]
